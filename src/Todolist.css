@@ -1,0 +1,61 @@
+.todoframe{
+   
+    width:50%;
+
+    
+}
+.todoframe h1{
+    color:#00539cff;
+}
+.todoframediv{
+    border:2px solid #00539cff;
+    text-align: center;
+    background-color:#EEA47FFF;
+    padding:20px;
+}
+
+.todoinput{
+    padding:10px;
+    border: solid #00539cff;
+    color:#00539cff;
+    text-align: center;
+    font-size:15px;
+   
+}
+.add{
+    margin-top:10px;
+    color:#EEA47FFF;
+    text-align: center;
+    padding:10px;
+    border-radius: 45px;
+    background-color: #00539cff;
+    
+}
+  
+.updatetodo{
+display: flex;
+justify-content: space-between;
+width: 100%;
+border: 2px solid #00539cff;
+margin-bottom: 10px;
+margin-right: 30px;
+padding: 5px;
+
+}
+
+.todoli{
+    list-style-type: none;
+    font-size: 25px;
+    display: inline-block;
+    text-align: left;
+    color:#00539cff;
+}
+
+
+
+.button{
+    padding:10px;
+    color:#EEA47FFF;
+    background-color:#00539cff;
+    margin-right:10px;
+}
